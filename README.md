@@ -27,8 +27,15 @@ Currently, I'm learning and exploring:
 
 ### 🚀 Projects
 
-- 💻 Code Error Explainer AI — In Development
-- 🌐 Personal Portfolio Website — Completed
+#### 💻 Code Error Explainer AI
+AI-powered project designed to help programmers understand coding errors in simple language.
+
+**Status:** 🚧 In Development
+
+#### 🌐 Personal Portfolio Website
+My personal developer portfolio built using HTML, CSS and JavaScript.
+
+**Status:** ✅ Completed
 
 ### 🎯 My Goal
 
