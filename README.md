@@ -11,6 +11,20 @@ Currently, I'm learning and exploring:
 - 🤖 Artificial Intelligence & Machine Learning
 - 🌐 Web Development
 
+### 🛠️ Tech Stack
+
+**Currently Learning**
+
+- Python
+- Data Structures & Algorithms
+- HTML
+- CSS
+- JavaScript
+- Artificial Intelligence
+- Machine Learning
+
+
+
 ### 🚀 Projects
 
 - 💻 Code Error Explainer AI — In Development
